@@ -1,3 +1,37 @@
+# Smart Stay Scape 🏨✨
+
+Welcome to **Smart Stay Scape**! This is a modern, responsive web application designed for seamless accommodation browsing and booking experiences. Built with a focus on an intuitive user interface, it helps users discover and explore their perfect staycations and getaways.
+
+## 🔗 Project Links & References
+
+**🌍 Live Deployments**
+* **[Live Demo (GitHub Pages)](https://rupesh-klr.github.io/smart-stay-scape/)** - *Primary Production Build*
+* **[Lovable App Preview](https://smart-stay-scape-rupesh.lovable.app/)** - *Lovable Staging Environment*
+
+**💻 Repositories & Source**
+* **[Main GitHub Repository](https://github.com/Rupesh-klr/smart-stay-scape)** - *Current Source Code*
+* **[Original Reference Repo](https://github.com/learning-spark-1/smart-stay-scape-rupesh)** - *Learning Spark Reference*
+* **[Lovable Project Workspace](https://lovable.dev/projects/753b3b10-d4f4-4933-b810-3ab20b94dfdb)** - *Original Lovable AI Generation Environment*
+
+## 💡 Overview
+
+Smart Stay Scape was generated and refined using modern AI development tools (Lovable.dev) and deployed via GitHub Pages. It features a clean, user-friendly frontend architecture tailored for the travel, hospitality, or real estate domain. 
+
+## 🛠️ Tech Stack (Expected)
+
+* **Frontend Framework:** React (Vite)
+* **Language:** TypeScript
+* **Styling:** Tailwind CSS / Shadcn UI
+* **Icons:** Lucide React
+* **Deployment:** GitHub Pages
+
+## 🚀 Getting Started Locally
+
+To run this project on your local machine:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Rupesh-klr/smart-stay-scape.git](https://github.com/Rupesh-klr/smart-stay-scape.git)
 # Welcome to your Lovable project
 
 ## Project info
