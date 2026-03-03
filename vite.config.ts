@@ -3,10 +3,12 @@ import react from "@vitejs/plugin-react-swc";
 import path from "path";
 import { componentTagger } from "lovable-tagger";
 
-// https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
+  // 1. THIS IS THE CORRECT PLACE FOR BASE
+  base: "/smart-stay-scape/", 
+  
   server: {
-    base: "/smart-stay-scape/",
+    // 2. Remove 'base' from here
     host: "::",
     port: 8080,
     hmr: {
