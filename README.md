@@ -1,5 +1,7 @@
 # Smart Stay Scape 🏨✨
 
+
+
 Welcome to **Smart Stay Scape**! This is a modern, responsive web application designed for seamless accommodation browsing and booking experiences. Built with a focus on an intuitive user interface, it helps users discover and explore their perfect staycations and getaways.
 
 ## 🔗 Project Links & References
